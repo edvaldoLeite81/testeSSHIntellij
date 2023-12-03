@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TesteSshUniApplication {
 
     public static void main(String[] args) {
+        System.out.println("Hello GitHub");
         SpringApplication.run(TesteSshUniApplication.class, args);
     }
 
